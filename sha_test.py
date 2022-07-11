@@ -1,5 +1,6 @@
 import hashlib
 
+# extra comment added just to observe git status 
 # prints all available algorithms
 print ("The available algorithms are : ", end ="")
 print (hashlib.algorithms_guaranteed)
