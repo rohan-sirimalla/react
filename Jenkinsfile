@@ -4,7 +4,6 @@ pipeline {
     stage('Build') {
       steps {
         echo "hellooooo"
-        sh 'python practice.py'
       }
     }
   }
